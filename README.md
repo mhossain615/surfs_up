@@ -14,7 +14,11 @@ Summary for December
 
 [![December](https://github.com/mhossain615/surfs_up/blob/master/Deliv%202.png)
 
+* Max temp for June is 85 and Max temp for December is 83 (2 point difference)
 
+* Min temp for June is 64 and Min temp for December is 56 (8 point difference)
+
+* Average temp for June is 74 and Average temp for December is 71 (3 point difference)
 
 ## Summary
 
